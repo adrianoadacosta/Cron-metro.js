@@ -5,11 +5,11 @@ Cronômetro criado com javascript,css e html
 
 ## Prints do projeto
 
-![Prints do projeto 1](https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/1.png)
+<img src="https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/1.png" width="200" height="200">
 
-![Prints do projeto 2](https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/2.png)
+<img src="https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/2.png" width="200" height="200">
 
-![Prints do projeto 3](https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/3.png)
+<img src="https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/3.png" width="200" height="200">
 
 # Tecnologias utilizadas
 - Javascript
