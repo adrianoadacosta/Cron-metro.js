@@ -4,12 +4,13 @@
 Cronômetro criado com javascript,css e html
 
 ## Prints do projeto
+<div style="text-align: center;">
+<img src="https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/1.png" width="200" height="200" style="margin: 100px;">
 
-<img src="https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/1.png" width="200" height="200">
+<img src="https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/2.png" width="200" height="200" style="margin: 100px;">
 
-<img src="https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/2.png" width="200" height="200">
-
-<img src="https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/3.png" width="200" height="200">
+<img src="https://github.com/adrianoadacosta/assets-para-README/blob/main/asset/Cronometro/3.png" width="200" height="200" style="margin: 100px;">
+</div>
 
 # Tecnologias utilizadas
 - Javascript
